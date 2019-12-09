@@ -1,5 +1,4 @@
-#Tarea3
-#Autor: Jael castillo
+#Tarea3 Funciones
 def comparando(n1, n2):
 	if n1 == n2:
 		return'Cuadrado'

@@ -1,4 +1,3 @@
-#Tarea3
-#Autor: Jael castillo
+#Tarea3 Cadenas
 texto = 'supercalfragilisticoespiralidoso'
 print (texto[::-1])
